@@ -60,11 +60,13 @@ akun petugas : email = petugas@gmail.com, pw = 12345678
 
 ## Fitur
 ### Admin
-- Halaman prediksi penjualan
-- Halaman untuk melihat akurasi metode KNN
-- Halaman kelola riwayat penjualan
 - Halaman kelola akun
-- Halaman kelola jenis produk
+- Halaman edit profile
+### petugas
+- Halaman kelola riwayat dan balasan Pengaduan
+- Halaman edit profile
 ### user
-- Halaman kelola riwayat penjualan
+- Halaman dashboard
+- Halaman pengaduan
+- Halaman kelola riwayat pengaduan
 
