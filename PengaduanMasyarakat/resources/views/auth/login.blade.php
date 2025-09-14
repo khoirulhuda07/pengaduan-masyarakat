@@ -54,7 +54,7 @@
   @include('sweetalert::alert')
     <div class="az-signin-wrapper">
       <div class="az-card-signin">
-      <img src="{{asset('user2/img/logo.png')}}" alt="" class="mb-2" width="90px">
+      <h1 class="az-logo">DPMPTSP Lamongan</h1>
         <!-- <h1 class="az-logo">az<span>i</span>a</h1> -->
         <div class="az-signin-header">
           <h2>Selamat datang!</h2>

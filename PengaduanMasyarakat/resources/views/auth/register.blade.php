@@ -38,10 +38,9 @@
     <div class="az-signup-wrapper">
       <div class="az-column-signup-left">
         <div>
-          <img src="{{asset('user2/img/logo.png')}}" alt="" class="mb-2" width="90px">
-          <!-- <h1 class="az-logo">az<span>i</span>a</h1> -->
-          <h5>Aplikasi Pengaduan Masyarakat Lamongan</h5>
-          <p>Selamat datang di sistem pengaduan masyarakat Kabupaten Lamongan.
+        <h1 class="az-logo">DPMPTSP Lamongan</h1>
+          <h5>Dinas penanaman modal dan pelayanan terpadu satu pintu (DPMPTSP) Lamongan</h5>
+          <p>Selamat datang di sistem Dinas penanaman modal dan pelayanan terpadu satu pintu (DPMPTSP) Lamongan.
 Kami hadir untuk memberikan kemudahan kepada masyarakat dalam menyampaikan laporan, keluhan, maupun aspirasi kepada instansi terkait secara cepat dan transparan.
 
 Melalui aplikasi ini, kami berharap dapat meningkatkan kualitas pelayanan publik serta membangun komunikasi yang lebih baik antara pemerintah dan masyarakat.</p>
@@ -78,7 +77,7 @@ Melalui aplikasi ini, kami berharap dapat meningkatkan kualitas pelayanan publik
           </form>
         </div><!-- az-signup-header -->
         <div class="az-signup-footer">
-          <p>Already have an account? <a href="{{'/login'}}">Sign In</a></p>
+          <p>Already have an account? <a href="{{url('login')}}">Sign In</a></p>
         </div><!-- az-signin-footer -->
       </div><!-- az-column-signup -->
     </div><!-- az-signup-wrapper -->

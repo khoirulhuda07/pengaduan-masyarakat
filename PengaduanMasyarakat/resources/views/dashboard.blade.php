@@ -1,3 +1,4 @@
+
 @extends('template.appuser')
 @section('title', 'dashboard')
 @section('content')
@@ -44,7 +45,7 @@
       <div class="az-dashboard-one-title text-center">
         <div class="d-flex flex-column align-items-center" style="width: 100%;">
           <h1 class="az-dashboard-title" style="font-size: 40px;">Selamat Datang Kembali !</h1>
-          <p class="az-dashboard-text" style="font-size: 15px;">Di aplikasi Pengaduan Masyarakat Lamongan</p>
+          <p class="az-dashboard-text" style="font-size: 15px;">Di Dinas penanaman modal dan pelayanan terpadu satu pintu (DPMPTSP) Lamongan</p>
         </div>
       </div>
 
@@ -90,7 +91,7 @@
       <div class="tentang-aplikasi">
         <h5>Tentang Aplikasi</h5>
         <p>
-          <strong>Aplikasi Pengaduan Masyarakat Lamongan</strong> adalah platform digital yang bertujuan untuk memfasilitasi masyarakat dalam menyampaikan keluhan atau saran secara langsung kepada pemerintah daerah. Aplikasi ini dikembangkan agar komunikasi antara warga dan pemerintah lebih cepat, transparan, dan efisien.
+          <strong>Dinas penanaman modal dan pelayanan terpadu satu pintu (DPMPTSP) Lamongan</strong> adalah platform digital yang bertujuan untuk memfasilitasi masyarakat dalam menyampaikan keluhan atau saran secara langsung kepada pemerintah daerah. Aplikasi ini dikembangkan agar komunikasi antara warga dan pemerintah lebih cepat, transparan, dan efisien.
         </p>
         <ul>
           <li>Menyampaikan pengaduan kapan saja dan di mana saja.</li>

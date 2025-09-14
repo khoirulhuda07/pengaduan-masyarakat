@@ -225,7 +225,7 @@
 
     <h5 class="card-subtitle mb-2 text-dark">Butuh Bantuan?</h5>
     <p class="card-text mb-1">📞 0812-3456-7890</p>
-    <p class="card-text">✉️ pengaduan@desa.id</p>
+    <p class="card-text">✉️ @dpmptsplamongan</p>
 
     <hr>
 

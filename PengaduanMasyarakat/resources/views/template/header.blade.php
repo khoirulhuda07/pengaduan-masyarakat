@@ -56,7 +56,7 @@
     <div class="az-header">
       <div class="container">
         <div class="az-header-left">
-        <img src="{{asset('user2/img/logo.png')}}" class="az-logo" style="" width="50px" alt="">
+        <a href="#" class="az-logo"><span></span>DPMPTSP Lamongan</a>
           <a href="" id="azMenuShow" class="az-header-menu-icon d-lg-none"><span></span></a>
         </div><!-- az-header-left -->
         <div class="az-header-menu">
